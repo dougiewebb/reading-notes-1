@@ -1,6 +1,6 @@
 ## **Reading-Notes**
 
-This is my repo for notes **about** what I have read
+This is my **repo** for notes **about** what I have read
 
 ## Code 102 - Intro to Software Development
 
