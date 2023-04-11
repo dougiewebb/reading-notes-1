@@ -32,7 +32,7 @@ This is my **repo** for notes **about** what I have read
 
     A. The opening tag is dealing with the name of the element.
 
-    B. The closing tag is almost the same as teh opening tag except it uses a forward slash before the element name.
+    B. The closing tag is almost the same as the opening tag except it uses a forward slash before the element name.
 
     C. The content is the content of the element (**text only**)
 
@@ -42,27 +42,27 @@ This is my **repo** for notes **about** what I have read
 
 4.  Some elements that most websites include are **( Links, Logos, Blog, Form, Header and Menu)**
 
-5.  Metadata helps influence search engine optimization by helping the serarch engines better understand what topic to search for on your webpages and content.  It is written in a language that helps the search engine.  
+5.  Metadata helps influence search engine optimization by helping the search engines better understand what topic to search for on your webpages and content.  It is written in a language that helps the search engine.  
 
-6.  The Meta tag, just tells the browswer how to make a browser work on a mobile device.  Moblie friendly.
+6.  The Meta tag, just tells the browser how to make a browser work on a mobile device.  Mobile friendly.
 
 **How to start to design a Website**
 
-1. Planning would be the first step, what is your webstite about?  What info are your presenting and what does it look like? 
+1. Planning would be the first step, what is your website about?  What info are your presenting and what does it look like? 
 
 2.  What exactly Do I want to accomplish would be the most important thing to ask yourself before designing a website?
 
 **Semantics**
 
-1.  H1 element in HTML gives the text a wrap around role of the top level heading.  This defines the most important heading.  Span is used for styling purposes.  Used to mark up a part of text or docuument.
+1.  H1 element in HTML gives the text a wrap around role of the top level heading.  This defines the most important heading.  Span is used for styling purposes.  Used to mark up a part of text or document.
 
-2.  The benefit of usuing semantic tags in HTML are as follows:  The help surch engines and devices with the importance and context of web pages, easier accessiblity and offers an overall better experience.   
+2.  The benefit of using semantic tags in HTML are as follows:  The help such engines and devices with the importance and context of web pages, easier accessibility and offers an overall better experience.   
 
 **What is JavaScript**
 
 1.  Two things that require JavaScript in browswer are playing audio and video on a web page.  Also zooming in or out on a webpage.
 
-2.  Adding JS into a HTML doc can be acheived by adding the dedicated HTML tag that wraps around the JS code.   
+2.  Adding JS into a HTML doc can be achieved by adding the dedicated HTML tag that wraps around the JS code.   
 
 **Things I want to know more about**
 
