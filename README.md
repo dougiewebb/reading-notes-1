@@ -20,7 +20,7 @@ This is my **repo** for notes **about** what I have read
 
 3. Images in website-  you can find the image you want by visting google images. 
 
-4. Strings are created by adding a quote that surronds the value.   Numbers are valued without quotes.  
+4. Strings are created by adding a quote that surrounds the value.   Numbers are valued without quotes.  
 
 5. Variables in java script are simply a name of storage location.   two types of variables which are local and global
 
@@ -38,7 +38,7 @@ This is my **repo** for notes **about** what I have read
 
     D. The Element is the opening and tag together. 
     
-3.  The difference between article and section tags are, tags define sections in docs **(Footers, Chapters, Headers)** and article tag speciifies self-contained      content such as **(Blogs, forums, and comment sections).**
+3.  The difference between article and section tags are, tags define sections in docs **(Footers, Chapters, Headers)** and article tag specifies self-contained      content such as **(Blogs, forums, and comment sections).**
 
 4.  Some elements that most websites include are **( Links, Logos, Blog, Form, Header and Menu)**
 
