@@ -60,7 +60,7 @@ This is my **repo** for notes **about** what I have read
 
 **What is JavaScript**
 
-1.  Two things that require JavaScript in browswer are playing audio and video on a web page.  Also zooming in or out on a webpage.
+1.  Two things that require JavaScript in browser are playing audio and video on a web page.  Also zooming in or out on a webpage.
 
 2.  Adding JS into a HTML doc can be achieved by adding the dedicated HTML tag that wraps around the JS code.   
 
