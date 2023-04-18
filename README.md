@@ -6,6 +6,8 @@ This is my **repo** for notes **about** what I have read
 
 ## Code 201 - Foundations of Software Development
 
+https://github.com/dougiewebb/reading-notes-1/blob/main/class%2003.md
+
 ## Code 301 - Intermediate Software Development
 
 ## Code 401 - Advanced Software Development
